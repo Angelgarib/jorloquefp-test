@@ -1,4 +1,4 @@
 Ángel José García
-Framework1
-Framework2
-Framework3
+Lenguaje1
+Lenguaje2
+Lenguaje3
